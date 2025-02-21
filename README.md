@@ -1,5 +1,5 @@
 # ✨Dev playground✨  
-Múltiples carpetas con módulos de uso de algunas herramientas para desarrollo web 💻  
+Módulos de código de algunas herramientas para aprender y acelerar tu desarrollo 💻  
 
 ### Lista de herramientas💼: 
 
